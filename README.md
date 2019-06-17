@@ -3,17 +3,17 @@
 
 | 单词  | 正确发音 | 错误发音 |
 | ---- | ------- | ------- |
-| [🔊] access (http://dict.youdao.com/dictvoice?audio=access&type=1) | ✅ ['ækses] | ❌ [ək'ses] |
-| [🔊] Adobe (http://dict.youdao.com/dictvoice?audio=Adobe&type=2) | ✅ [ə'dəʊbi]| ❌ [əˈdub] |
-| [🔊] admin (http://dict.youdao.com/dictvoice?audio=admin&type=2) | ✅ ['ædmɪn] | ❌ [ɜ:d'mɪn] |
-| [🔊] agile (http://dict.youdao.com/dictvoice?audio=agile&type=1) | ✅ ['ædʒaɪl] | ❌ [ə'dʒaɪl] |
-| [🔊] amazon (http://dict.youdao.com/dictvoice?audio=amazon&type=1) | ✅ ['æməzən] | ❌ ['əmeizən; ə'meizən] |
-| [🔊] analogy (http://dict.youdao.com/dictvoice?audio=analogy&type=1) | ✅ [əˈnælədʒi] | ❌ [ænə'lɒdʒi] |
-| [🔊] Angular (http://dict.youdao.com/dictvoice?audio=Angular&type=1) | ✅ ['æŋgjʊlə] | ❌ ['æŋɡələ; 'æŋdʒʌlə] |
-| [🔊] AJAX (http://dict.youdao.com/dictvoice?audio=AJAX&type=1) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
-| [🔊] alias (http://dict.youdao.com/dictvoice?audio=alias&type=2) | ✅ [ˈeɪliəs]| ❌ [ə'lais] |
-| [🔊] Apache (http://dict.youdao.com/dictvoice?audio=Apache&type=1) | ✅ [ə'pætʃɪ] | ❌ [ʌpʌtʃ] |
-| [🔊] app (http://dict.youdao.com/dictvoice?audio=app&type=1) | ✅ [æp] | ❌ [eipi'pi]|
+| access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=1) | ✅ ['ækses] | ❌ [ək'ses] |
+| Adobe [🔊](http://dict.youdao.com/dictvoice?audio=Adobe&type=2) | ✅ [ə'dəʊbi]| ❌ [əˈdub] |
+| admin [🔊](http://dict.youdao.com/dictvoice?audio=admin&type=2) | ✅ ['ædmɪn] | ❌ [ɜ:d'mɪn] |
+| agile [🔊](http://dict.youdao.com/dictvoice?audio=agile&type=1) | ✅ ['ædʒaɪl] | ❌ [ə'dʒaɪl] |
+| amazon [🔊](http://dict.youdao.com/dictvoice?audio=amazon&type=1) | ✅ ['æməzən] | ❌ ['əmeizən; ə'meizən] |
+| analogy [🔊](http://dict.youdao.com/dictvoice?audio=analogy&type=1) | ✅ [əˈnælədʒi] | ❌ [ænə'lɒdʒi] |
+| Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=1) | ✅ ['æŋgjʊlə] | ❌ ['æŋɡələ; 'æŋdʒʌlə] |
+| AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=1) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
+| alias [🔊](http://dict.youdao.com/dictvoice?audio=alias&type=2) | ✅ [ˈeɪliəs]| ❌ [ə'lais] |
+| Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=1) | ✅ [ə'pætʃɪ] | ❌ [ʌpʌtʃ] |
+| app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=1) | ✅ [æp] | ❌ [eipi'pi]|
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=1) | ✅ ['ɑːkaɪv] | ❌ ['ətʃɪv] |
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=1) | ✅ [ə'rei] | ❌ [æ'rei] |
 | ASCII [🔊](http://dict.youdao.com/dictvoice?audio=ascii&type=1) | ✅ ['æski] | ❌ [ɑːsk] |
@@ -91,7 +91,6 @@
 > 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
 
 
-
 > 参考资料
 >
 > 1. https://www.zhihu.com/question/19739907
@@ -100,7 +99,3 @@
 > 4. https://www.v2ex.com/t/63781
 > 5. https://www.v2ex.com/t/246033
 > 6. https://www.v2ex.com/t/342087
-
-
-#### 读对了所有的单词？
-我们正在招聘优秀的程序员，欢迎[加入石墨文档](https://shimo.im/doc/G3ckHEVF3f4qANHk)
